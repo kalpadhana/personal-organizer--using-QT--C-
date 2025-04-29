@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/img"/>
+    <qresource prefix="/">
+        <file>image/login_icon.png</file>
+        <file>database/PROJECT.db</file>
+    </qresource>
+</RCC>
